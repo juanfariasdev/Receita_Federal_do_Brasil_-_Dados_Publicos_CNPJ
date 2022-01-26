@@ -1,3 +1,10 @@
+### Fork
+Projeto original [Clicando aqui](https://github.com/aphonsoar/Receita_Federal_do_Brasil_-_Dados_Publicos_CNPJ)
+
+Não está tendo atualização então criei esse fork para resolver alguns problemas 
+
+---------------------
+
 # Dados Públicos CNPJ
 - Fonte oficial da Receita Federal do Brasil, [aqui](https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/dados-publicos-cnpj).
 - Layout dos arquivos, [aqui](https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/arquivos/NOVOLAYOUTDOSDADOSABERTOSDOCNPJ.pdf).
