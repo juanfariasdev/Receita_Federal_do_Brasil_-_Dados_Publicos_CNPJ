@@ -187,7 +187,7 @@ for e in range(0, len(arquivos_empresa)):
                       3: 'object', 4: 'object', 5: 'object', 6: 'object'}
     extracted_file_path = Path(f'{extracted_files}/{arquivos_empresa[e]}')
 
-    empresa = pd.read_csv(filepath_or_buffer=extracted_file_path,
+    empresa = pd.read_csv(filepath_or_buffer=extracted_file_path, encoding="ISO-8859-1",
                           sep=';',
                           # nrows=100,
                           skiprows=0,
